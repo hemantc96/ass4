@@ -1,5 +1,7 @@
 body{
     color: rgb(105, 31, 31);
+    line-height: 20px;
+    font-size: large;
 }
 h1{
     color: rgb(219, 54, 54);
@@ -10,6 +12,7 @@ h3{
 }
 #t1{
     text-decoration: line-through;
+    font-weight: bold;
 }
 .t2{
     background-color: yellow;
