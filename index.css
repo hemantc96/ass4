@@ -1,0 +1,32 @@
+body{
+    color: rgb(105, 31, 31);
+}
+h1{
+    color: rgb(219, 54, 54);
+}
+h3{
+    color: rgb(204, 50, 50);
+    font-style: italic;
+}
+#t1{
+    text-decoration: line-through;
+}
+.t2{
+    background-color: yellow;
+    font-weight: bold;
+}
+#t3{
+    text-decoration: underline;
+    font-style: italic;
+}
+#t4{
+    letter-spacing: 5px;
+}
+#p{
+    line-height: 45px;
+}
+#l{
+    font-style: italic;
+    background-color: yellow;
+    color: brown;
+}
